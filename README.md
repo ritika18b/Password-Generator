@@ -1,4 +1,7 @@
 # Ranndom-Password-Generator
+
+
+
 char = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*_"
 while True:
     print("Length of password: ")
