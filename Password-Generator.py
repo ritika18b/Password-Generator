@@ -1,10 +1,10 @@
-
+import random
 char = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*_"
 while True:
     print("Length of password: ")
     n=int(input())
 
-    print("Password required: ")
+    print("How many passwords you want to generate : ")
     c=int(input())
 
     for i in range(0,c):
