@@ -50,8 +50,6 @@ This is a GUI-based password generator built using Python's Tkinter library. It 
 * Python 3.x
 * Tkinter library
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a pull request.
 
 
